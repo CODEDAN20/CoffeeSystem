@@ -1,0 +1,6 @@
+@AP_HostAddress = http://localhost:5077
+
+GET {{AP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
